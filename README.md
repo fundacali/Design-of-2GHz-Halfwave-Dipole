@@ -1,7 +1,7 @@
 # Design-of-2GHz-Halfwave-Dipole
 
 
-This repository contains my first project using the **CST Studio Suite** software. 
+
 The main goal was to learn how to design and model a simple **Half-Wave Dipole Antenna** for electromagnetic simulation.
 
 ## Design Details
